@@ -73,10 +73,10 @@ Newest Video totorial:
 https://www.youtube.com/watch?v=LouoiSSDxSM
 <br>
 
-<img src="https://github.com/CryptoDappRun/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/1.png" alt="eth">
-<img src="https://github.com/CryptoDappRun/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/2.png" alt="eth">
-<img src="https://github.com/CryptoDappRun/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/3.png"  alt="eth">
-<img src="https://github.com/CryptoDappRun/RPGMaker-Free-Cryptocurrency-Algo-Payment-Gateway/blob/main/4.png"  alt="eth">
+<img src="1.png" alt="eth">
+<img src="2.png" alt="eth">
+<img src="3.png"  alt="eth">
+<img src="4.png"  alt="eth">
 
 
 
